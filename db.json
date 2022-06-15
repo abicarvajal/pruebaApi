@@ -1,0 +1,14 @@
+{
+  "usuario": [
+    {
+      "apellido":"Carvajal",
+      "ci":"1720980067",
+      "fechaN":"18-03-1198",
+      "nombre":"Abigail"
+      "salarioPromedio":600
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
